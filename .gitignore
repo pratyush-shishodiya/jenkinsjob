@@ -1,4 +1,4 @@
-.gitignore
+
 .ds_store
 .flaskenv
 .env
