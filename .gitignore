@@ -1,2 +1,6 @@
-.flaskenv
+.ds_store
+
 .env
+
+.flaskenv
+
